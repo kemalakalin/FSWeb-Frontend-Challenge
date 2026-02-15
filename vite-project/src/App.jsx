@@ -6,7 +6,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Header from "./pages/Header.jsx";
 import Skills from './pages/Skills.jsx';
-import Profile from './pages/profile.jsx';
+import Profile from './pages/Profile.jsx';
 import Projects from './pages/Projects.jsx';
 import Footer from './pages/Footer.jsx';
 import { SiteProvider } from './context/SiteContext';
