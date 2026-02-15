@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import Header from './pages/header.jsx'
+import Header from "./pages/Header.jsx";
 import Skills from './pages/Skills.jsx';
 import Profile from './pages/profile.jsx';
 import Projects from './pages/Projects.jsx';
