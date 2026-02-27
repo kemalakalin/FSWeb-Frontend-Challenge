@@ -83,7 +83,7 @@ export const Header = () => {
           <div className="relative">
             <div className="absolute -top-4 -left-4 w-full h-full bg-[#E92577] rounded-3xl transition-transform hover:scale-105"></div>
             <img 
-              src="/src/assets/img/0.jpeg" 
+              src="/assets/img/0.jpeg" 
               alt="Kemal" 
               className={`relative w-[300px] md:w-[400px] h-[350px] md:h-[450px] object-cover rounded-3xl border-4 ${isDarkMode ? 'border-[#252128]' : 'border-[#F4F4F4]'} shadow-xl`}
             />
