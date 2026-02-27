@@ -11,7 +11,7 @@ export const Projects = () => {
       github: "#",
       app: "#",
       bgColor: isDarkMode ? "bg-[#2D3235]" : "bg-[#DDEEFE]", 
-      img: "/src/assets/img/1.png" 
+      img: "/assets/img/1.png" 
     },
     {
       title: t.project2Title, // Çeviriden geliyor
@@ -20,7 +20,7 @@ export const Projects = () => {
       github: "#",
       app: "#",
       bgColor: isDarkMode ? "bg-[#2D3235]" : "bg-[#D9F6F1]", 
-      img: "/src/assets/img/2.png" 
+      img: "/assets/img/2.png" 
     }
   ];
 
